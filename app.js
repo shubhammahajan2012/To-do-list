@@ -2,7 +2,7 @@
 const express = require("express");
 //Mongoose setup
 const mongoose = require("mongoose");
-mongoose.connect("mongodb+srv://admin-shups:shups123@cluster0.rxtfytw.mongodb.net/todolistDB");
+mongoose.connect("mongodb+srv://admin-shups:Test123@cluster0.rxtfytw.mongodb.net/todolistDB");
 //Lodash setup
 const _ = require("lodash");
 
